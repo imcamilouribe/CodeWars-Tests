@@ -1,11 +1,11 @@
-# CodeWars Tests
-Microservicio con diferentes tareas realizadas en CodeWar
+<h1 align="center"> Codewars Tests </h1>
+Microservice created to store all Codewars JAVA tests
 
-# Stop gninnipS My sdroW!
-Write a function that takes in a string of one or more words, and returns the same string, but with all five or more letter words reversed (Just like the name of this Kata). Strings passed in will consist of only letters and spaces. Spaces will be included only when more than one word is present.
-
-# Endpoint
-localhost:8080/spin-words?sentence=Hey fellow warriors
-
-Params:
-  - sentence: string    
+<h2> 1. Stop gninnipS My sdroW! </h1>
+<p> Write a function that takes in a string of one or more words, and returns the same string, but with all five or more letter words reversed (Just like the name of this Kata). Strings passed in will consist of only letters and spaces. Spaces will be included only when       more than one word is present. 
+    
+Endpoint:
+<br>
+localhost:8090/spin-words?sentence=Hey fellow warriors
+  
+</p>
